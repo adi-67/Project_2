@@ -1,6 +1,6 @@
 # 🚗 US Traffic Accidents Analysis (Kaggle Dataset)
 
-This repository contains my internship Task 3 project,This project focuses on cleaning, preprocessing, and performing Exploratory Data Analysis (EDA) on the USA Traffic Accident Dataset from Kaggle. The goal is to uncover meaningful patterns, trends, and factors contributing to road accidents across different states, cities, weather conditions, and time periods.  
+This repository contains my internship Task 2 project,This project focuses on cleaning, preprocessing, and performing Exploratory Data Analysis (EDA) on the USA Traffic Accident Dataset from Kaggle. The goal is to uncover meaningful patterns, trends, and factors contributing to road accidents across different states, cities, weather conditions, and time periods.  
 👉 [US Accidents Dataset on Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 Our goal is to identify patterns in accidents related to:
