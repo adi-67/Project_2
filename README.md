@@ -1,4 +1,3 @@
-# SCT_DS_4
 # 🚗 US Traffic Accidents Analysis (Kaggle Dataset)
 
 This project analyzes **US traffic accident data** from 2016 to 2023, using the dataset provided on Kaggle:  
